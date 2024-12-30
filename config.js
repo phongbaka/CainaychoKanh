@@ -1,12 +1,12 @@
 const CONFIG = {
     titleWeb: "totinh.phong",
-    introTitle: 'Kanh ơi',
+    introTitle: 'em ơi',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Kanh cho hỏi cái này nkaa 🥺',
+    title: 'em cho hỏi cái này nkaa 🥺',
     desc: 'Kanh có thích anh hong 👉👈 ',
     btnYes: 'Thích lắm <33',
     btnNo: 'hong nha :33',
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'anh biết mà :33',
     messDesc: 'Tối nay 7h, anh qua đón đi chơi nha :>>.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/SelectionPJ' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/op.ryder2601' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
